@@ -16,6 +16,7 @@ Este é um projeto simples de cadastro de candidatos para um vestibular, desenvo
     - Inicie o XAMPP e inicie o Apache e o MySQL.
     - Acesse o phpMyAdmin clicando em "Admin" ao lado do MySQL.
     - Crie um novo banco de dados chamado "vestibular".
+     
 3. Abaixo está a estrutura da tabela utilizada. Execute o seguinte código SQL para criar a tabela:
     ```sql
     CREATE DATABASE vestibular;
