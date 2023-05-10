@@ -3,6 +3,7 @@
 ## Projeto de Cadastro de Candidatos para Vestibular
 
 Este é um projeto simples de cadastro de candidatos para um vestibular, desenvolvido durante a prova do professor Orlando utilizando PHP orientado a objetos e o SGBD MySQL.
+Github do professor Orlando: https://github.com/orlandosaraivajr<br>
 
 ## Pré-requisitos
 
